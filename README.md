@@ -8,7 +8,7 @@
 
 **`Senior Member of Technical Staff @ Oracle — OCI Functions`**
 
-*IEEE Senior Member · Peer Reviewer (IEEE TCC, JOSS) · Open Source Contributor*
+*IEEE Senior Member · Peer Reviewer (IEEE TCC, ACM CSUR, JOSS) · Open Source Contributor*
 
 [![Website](https://img.shields.io/badge/vinaygupta.com-1a8a9d?style=for-the-badge&logo=safari&logoColor=white)](https://vinaygupta.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vgupta35/)
@@ -46,7 +46,7 @@ distributed systems · serverless · observability · cloud security · event-dr
 - *Asynchronous Data Stream Ingestion in Distributed Cloud Infrastructure* — IJCTT, 2024 · [DOI](https://doi.org/10.14445/22312803/ijctt-v72i1p102)
 - Preprints on AI/agent infrastructure — see the project table above
 - **IEEE Senior Member** · Panelist, IEEE Senior Member Application Review Panel
-- Peer Reviewer, [IEEE Transactions on Cloud Computing](https://www.computer.org/csdl/journal/cc) · Reviewer, [Journal of Open Source Software](https://joss.theoj.org/)
+- Peer Reviewer, [IEEE Transactions on Cloud Computing](https://www.computer.org/csdl/journal/cc) · [ACM Computing Surveys](https://dl.acm.org/journal/csur) · [Journal of Open Source Software](https://joss.theoj.org/)
 - Professional Member, [British Computer Society](https://www.bcs.org/) (MBCS)
 
 ## ⚙️ Stack
