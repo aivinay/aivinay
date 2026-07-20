@@ -8,7 +8,7 @@
 
 **`Senior Member of Technical Staff @ Oracle — OCI Functions`**
 
-*Serverless across 50+ cloud regions · Kafka at trillions of events/day · IEEE Senior Member*
+*IEEE Senior Member · Peer Reviewer (IEEE TCC, JOSS) · Open Source Contributor*
 
 [![Website](https://img.shields.io/badge/vinaygupta.com-1a8a9d?style=for-the-badge&logo=safari&logoColor=white)](https://vinaygupta.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vgupta35/)
@@ -19,9 +19,9 @@
 
 ## 🛰 What I do
 
-I build and operate hyperscale cloud platforms. Currently defining technical strategy and architecture for **OCI Functions** — Oracle's Kubernetes-based, tier-1 serverless platform running across **50+ commercial regions** — including its multi-architecture (x86 + ARM) runtime migration.
+I build and operate hyperscale cloud platforms. Currently defining technical strategy and architecture for **OCI Functions** — Oracle's Kubernetes-based serverless platform — including its multi-architecture (x86 + ARM) runtime migration.
 
-Previously: **Bloomberg** (0→1 cloud-native alerting platform), **Microsoft Azure** (security infrastructure protecting **$100B+** in networking assets; Kafka pipelines processing **trillions of events daily**), and **OCI Telemetry** (routing engine handling **1.1B monthly data streams**).
+Previously: **Bloomberg** (cloud-native alerting platform), **Microsoft Azure** (security infrastructure for Azure Networking; real-time Kafka data pipelines), and **OCI Telemetry** (Observability data-plane routing at scale).
 
 ```text
 distributed systems · serverless · observability · cloud security · event-driven systems · AI infrastructure
@@ -45,7 +45,9 @@ distributed systems · serverless · observability · cloud security · event-dr
 
 - *Asynchronous Data Stream Ingestion in Distributed Cloud Infrastructure* — IJCTT, 2024 · [DOI](https://doi.org/10.14445/22312803/ijctt-v72i1p102)
 - Preprints on AI/agent infrastructure — see the project table above
-- **IEEE Senior Member** · Peer Reviewer, [IEEE Transactions on Cloud Computing](https://www.computer.org/csdl/journal/cc) · Reviewer, [Journal of Open Source Software](https://joss.theoj.org/)
+- **IEEE Senior Member** · Panelist, IEEE Senior Member Application Review Panel
+- Peer Reviewer, [IEEE Transactions on Cloud Computing](https://www.computer.org/csdl/journal/cc) · Reviewer, [Journal of Open Source Software](https://joss.theoj.org/)
+- Professional Member, [British Computer Society](https://www.bcs.org/) (MBCS)
 
 ## ⚙️ Stack
 
