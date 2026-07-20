@@ -41,6 +41,10 @@ distributed systems · serverless · observability · cloud security · event-dr
 - **[OpenTelemetry](https://github.com/open-telemetry)** — [merged: `opentelemetry-instrumentation-pika` duplicate consumer-span fix](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4740)
 - **[HeadRoom](https://github.com/headroomlabs-ai/headroom)** — proxy & routing contributions → [my PRs](https://github.com/headroomlabs-ai/headroom/pulls?q=is%3Apr+author%3Aaivinay)
 
+## 🎤 Speaking
+
+- **gRPConf North America 2026** (The Linux Foundation / CNCF) — *“gRPC Lessons From Serverless Infrastructure: A Beginner’s Guide to Production-Ready APIs”* · Mountain View, CA · Sep 3, 2026 · [session](https://grpconf-north-america-2026.sessionize.com/speaker/c81cae3c-05f6-4953-bbe1-6beb209003a6)
+
 ## 📄 Publications & service
 
 - *Asynchronous Data Stream Ingestion in Distributed Cloud Infrastructure* — IJCTT, 2024 · [DOI](https://doi.org/10.14445/22312803/ijctt-v72i1p102)
