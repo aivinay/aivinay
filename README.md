@@ -11,9 +11,9 @@
 *IEEE Senior Member · Peer Reviewer (IEEE TCC, ACM CSUR, JOSS) · Open Source Contributor*
 
 [![Website](https://img.shields.io/badge/vinaygupta.com-1a8a9d?style=for-the-badge&logo=safari&logoColor=white)](https://vinaygupta.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vgupta35/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aivinay/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0749-6609)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swevinaygupta@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ai.vinaygupta@gmail.com)
 
 </div>
 
