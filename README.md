@@ -1,8 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a8a9d,50:326CE5,100:844FBA&height=190&section=header&text=Vinay%20Gupta&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=Distributed%20Systems%20%C2%B7%20Serverless%20%C2%B7%20Cloud%20Infrastructure&descAlignY=54&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a8a9d,50:326CE5,100:844FBA&height=190&section=header&text=Vinay+Gupta&fontSize=44&fontColor=ffffff&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1500&color=1A8A9D&center=true&vCenter=true&width=620&lines=Senior+Member+of+Technical+Staff+%40+Oracle+%E2%80%94+OCI+Functions;Serverless+platforms+across+50%2B+cloud+regions;Kafka+pipelines+processing+trillions+of+events+daily;IEEE+Senior+Member+%C2%B7+Open+Source+Contributor)](https://github.com/aivinay)
+### Distributed Systems · Serverless · Cloud Infrastructure
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1500&color=1A8A9D&center=true&vCenter=true&width=620&lines=Senior+Member+of+Technical+Staff+at+Oracle+(OCI+Functions);Serverless+platforms+across+50%2B+cloud+regions;Kafka+pipelines+processing+trillions+of+events+daily;IEEE+Senior+Member+and+Open+Source+Contributor)](https://github.com/aivinay)
 
 [![Website](https://img.shields.io/badge/vinaygupta.com-1a8a9d?style=for-the-badge&logo=safari&logoColor=white)](https://vinaygupta.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vgupta35/)
