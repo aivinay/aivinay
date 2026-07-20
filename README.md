@@ -1,10 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a8a9d,50:326CE5,100:844FBA&height=190&section=header&text=Vinay+Gupta&fontSize=44&fontColor=ffffff&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a8a9d,50:326CE5,100:844FBA&height=150)
+
+# Vinay Gupta
 
 ### Distributed Systems · Serverless · Cloud Infrastructure
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1500&color=1A8A9D&center=true&vCenter=true&width=620&lines=Senior+Member+of+Technical+Staff+at+Oracle+(OCI+Functions);Serverless+platforms+across+50%2B+cloud+regions;Kafka+pipelines+processing+trillions+of+events+daily;IEEE+Senior+Member+and+Open+Source+Contributor)](https://github.com/aivinay)
+**`Senior Member of Technical Staff @ Oracle — OCI Functions`**
+
+*Serverless across 50+ cloud regions · Kafka at trillions of events/day · IEEE Senior Member*
 
 [![Website](https://img.shields.io/badge/vinaygupta.com-1a8a9d?style=for-the-badge&logo=safari&logoColor=white)](https://vinaygupta.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vgupta35/)
@@ -61,6 +65,6 @@ distributed systems · serverless · observability · cloud security · event-dr
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:844FBA,50:326CE5,100:1a8a9d&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:844FBA,50:326CE5,100:1a8a9d&height=100&section=footer&reversal=true)
 
 </div>
