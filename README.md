@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a8a9d,50:326CE5,100:844FBA&height=190&section=header&text=Vinay%20Gupta&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Distributed%20Systems%20%C2%B7%20Serverless%20%C2%B7%20Cloud%20Infrastructure&descAlignY=54&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a8a9d,50:326CE5,100:844FBA&height=190&section=header&text=Vinay%20Gupta&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=Distributed%20Systems%20%C2%B7%20Serverless%20%C2%B7%20Cloud%20Infrastructure&descAlignY=54&descSize=17)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1500&color=1A8A9D&center=true&vCenter=true&width=620&lines=Senior+Member+of+Technical+Staff+%40+Oracle+%E2%80%94+OCI+Functions;Serverless+platforms+across+50%2B+cloud+regions;Kafka+pipelines+processing+trillions+of+events+daily;IEEE+Senior+Member+%C2%B7+Open+Source+Contributor)](https://github.com/aivinay)
 
@@ -58,12 +58,6 @@ distributed systems · serverless · observability · cloud security · event-dr
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-
-## 📈
-
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=aivinay&show_icons=true&theme=default&hide_border=true&rank_icon=github)
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aivinay&theme=minimal&hide_border=true&area=true)](https://github.com/aivinay)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:844FBA,50:326CE5,100:1a8a9d&height=100&section=footer)
 
