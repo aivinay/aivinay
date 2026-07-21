@@ -4,11 +4,11 @@
 
 # Vinay Gupta
 
-### Distributed Systems · Serverless · Cloud Infrastructure
+### AI Infrastructure · Distributed Systems · Serverless Platforms
 
 **`Senior Member of Technical Staff @ Oracle — OCI Functions`**
 
-*IEEE Senior Member · Peer Reviewer (IEEE TCC, ACM CSUR, JOSS) · Open Source Contributor*
+***12+ years** building hyperscale cloud infrastructure · prev. **Microsoft Azure** & **Bloomberg** · IEEE Senior Member*
 
 [![Website](https://img.shields.io/badge/vinaygupta.com-1a8a9d?style=for-the-badge&logo=safari&logoColor=white)](https://vinaygupta.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aivinay/)
@@ -19,36 +19,38 @@
 
 ## 🛰 What I do
 
-I build and operate hyperscale cloud platforms. Currently defining technical strategy and architecture for **OCI Functions** — Oracle's Kubernetes-based serverless platform — including its multi-architecture (x86 + ARM) runtime migration.
+I build and operate hyperscale cloud platforms. Currently I define technical strategy and architecture for **OCI Functions** — Oracle's Kubernetes-based, tier-1 serverless platform — across a **24-engineer global org**, and drove its multi-architecture (x86 + ARM) runtime migration across **all 50+ Oracle commercial regions**.
 
-Previously: **Bloomberg** (cloud-native alerting platform), **Microsoft Azure** (security infrastructure for Azure Networking; real-time Kafka data pipelines), and **OCI Telemetry** (Observability data-plane routing at scale).
+Previously: **Microsoft Azure** (real-time Kafka ingestion processing **trillions of events daily**; security infrastructure for Azure Networking protecting assets backing **$100B+**), **Bloomberg** (0→1 cloud-native alerting platform built to **99.99% availability** targets with strict p99 budgets), and **OCI Telemetry** (observability data-plane routing at scale).
+
+On the side, I build open-source **AI-infrastructure tooling** — model routing, agent observability, cluster guardrails, and reproducible ML data pipelines — each shipped with a citable preprint (below).
 
 ```text
-distributed systems · serverless · observability · cloud security · event-driven systems · AI infrastructure
+AI infrastructure · LLM inference & agents · Kubernetes · serverless · platform engineering · distributed systems · Kafka / streaming · observability
 ```
 
 ## 🚀 Projects — code ⇄ papers
 
+*Each project pairs working code with a citable preprint — design decisions and claims written down where they can be checked.*
+
 | Project | What it is | Paper |
 |---|---|---|
-| [**switchboard**](https://github.com/aivinay/switchboard) | Privacy-aware, local-first router for CLI coding agents (Codex, Claude Code) and local LLMs — keeps sensitive prompts on-device, cuts premium-model usage | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20836918-blue)](https://doi.org/10.5281/zenodo.20836918) |
+| [**switchboard**](https://github.com/aivinay/switchboard) | Privacy-aware, local-first router for CLI coding agents (Codex, Claude Code) and local LLM inference — keeps sensitive prompts on-device. Benchmarked in the preprint: **62% fewer premium-agent calls** at 4.1/5 vs 4.6/5 always-premium quality, with **zero privacy leaks** | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20836918-blue)](https://doi.org/10.5281/zenodo.20836918) |
 | [**agent-tracebench**](https://github.com/aivinay/agent-tracebench) | Reproducible observability, replay, and regression checks for LLM agents | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21194993-blue)](https://doi.org/10.5281/zenodo.21194993) |
 | [**kube-clusterguard**](https://github.com/aivinay/kube-clusterguard) | Static guardrails for Kubernetes AI/ML compute clusters | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21196097-blue)](https://doi.org/10.5281/zenodo.21196097) |
 | [**shardflow-ml**](https://github.com/aivinay/shardflow-ml) | Deterministic manifest, planning, and checkpoint layer for reproducible ML data pipelines | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21195040-blue)](https://doi.org/10.5281/zenodo.21195040) |
 
-## 🌱 Open source
+Also: [**ai-spend-cap-tracker**](https://github.com/aivinay/ai-spend-cap-tracker) — a sourced, public tracker of organizations capping or cutting employee AI-coding spend; the cost pressure switchboard is built for.
+
+## 🔧 Open source
 
 - **[OpenTelemetry](https://github.com/open-telemetry)** — [merged: `opentelemetry-instrumentation-pika` duplicate consumer-span fix](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4740)
-- **[HeadRoom](https://github.com/headroomlabs-ai/headroom)** — proxy & routing contributions → [my PRs](https://github.com/headroomlabs-ai/headroom/pulls?q=is%3Apr+author%3Aaivinay)
+- **[HeadRoom](https://github.com/headroomlabs-ai/headroom)** — LLM context-compression proxy; fixes across its proxy, router, and compression paths → [my merged PRs](https://github.com/headroomlabs-ai/headroom/pulls?q=is%3Apr+is%3Amerged+author%3Aaivinay)
 
-## 🎤 Speaking
+## 🎤 Talks, publications & service
 
-- **gRPConf North America 2026** (The Linux Foundation / CNCF) — *“gRPC Lessons From Serverless Infrastructure: A Beginner’s Guide to Production-Ready APIs”* · Mountain View, CA · Sep 3, 2026 · [session](https://grpconf-north-america-2026.sessionize.com/speaker/c81cae3c-05f6-4953-bbe1-6beb209003a6)
-
-## 📄 Publications & service
-
+- **gRPConf North America 2026** (The Linux Foundation / CNCF) — *“gRPC Lessons From Serverless Infrastructure”* · Mountain View, CA · Sep 3, 2026 · [session](https://grpconf-north-america-2026.sessionize.com/speaker/c81cae3c-05f6-4953-bbe1-6beb209003a6)
 - *Asynchronous Data Stream Ingestion in Distributed Cloud Infrastructure* — IJCTT, 2024 · [DOI](https://doi.org/10.14445/22312803/ijctt-v72i1p102)
-- Preprints on AI/agent infrastructure — see the project table above
 - **IEEE Senior Member** · Panelist, IEEE Senior Member Application Review Panel
 - Peer Reviewer, [IEEE Transactions on Cloud Computing](https://www.computer.org/csdl/journal/cc) · [ACM Computing Surveys](https://dl.acm.org/journal/csur) · [Journal of Open Source Software](https://joss.theoj.org/)
 - Professional Member, [British Computer Society](https://www.bcs.org/) (MBCS)
@@ -71,6 +73,6 @@ distributed systems · serverless · observability · cloud security · event-dr
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:844FBA,50:326CE5,100:1a8a9d&height=100&section=footer&reversal=true)
+**📫 Reach me:** [ai.vinaygupta@gmail.com](mailto:ai.vinaygupta@gmail.com) · [linkedin.com/in/aivinay](https://www.linkedin.com/in/aivinay/)
 
 </div>
