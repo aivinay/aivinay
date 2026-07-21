@@ -19,9 +19,9 @@
 
 ## 🛰 What I do
 
-I build and operate hyperscale cloud platforms. Currently I define technical strategy and architecture for **OCI Functions** — Oracle's Kubernetes-based serverless platform — including its multi-architecture (x86 + ARM) runtime migration. Daily tools: **Go, Kubernetes, Terraform, and gRPC**.
+I build and operate hyperscale cloud platforms. Currently I define technical strategy and architecture for **OCI Functions** — Oracle's Kubernetes-based serverless platform — including its multi-architecture (x86 + ARM) runtime migration. Daily tools: **Go, Python, Java, Kubernetes, Terraform, and gRPC**.
 
-Previously: **Microsoft Azure** (real-time Kafka ingestion pipelines; security infrastructure for Azure Networking), **Bloomberg** (0→1 cloud-native alerting platform — Go, AWS Lambda, PostgreSQL, OpenTelemetry, Kubernetes), and **OCI Telemetry** (Kafka-based routing for Oracle's observability data plane).
+Previously: **Microsoft Azure** (real-time Kafka ingestion pipelines; security infrastructure for Azure Networking), **Bloomberg** (0→1 cloud-native alerting platform — Go, Python, AWS Lambda, PostgreSQL, OpenTelemetry, Kubernetes), and **OCI Telemetry** (Kafka-based routing for Oracle's observability data plane).
 
 On the side, I build open-source **AI-infrastructure tooling** — model routing, agent observability, cluster guardrails, and reproducible ML data pipelines — each shipped with a citable preprint (below).
 
