@@ -49,7 +49,7 @@ Also: [**ai-spend-cap-tracker**](https://github.com/aivinay/ai-spend-cap-tracker
 
 ## 🎤 Talks, publications & service
 
-- **gRPConf North America 2026** (The Linux Foundation / CNCF) — *“gRPC Lessons From Serverless Infrastructure”* · Mountain View, CA · Sep 3, 2026 · [session](https://grpconf-north-america-2026.sessionize.com/speaker/c81cae3c-05f6-4953-bbe1-6beb209003a6)
+
 - *Asynchronous Data Stream Ingestion in Distributed Cloud Infrastructure* — IJCTT, 2024 · [DOI](https://doi.org/10.14445/22312803/ijctt-v72i1p102)
 - **IEEE Senior Member** · Panelist, IEEE Senior Member Application Review Panel
 - Peer Reviewer, [IEEE Transactions on Cloud Computing](https://www.computer.org/csdl/journal/cc) · [ACM Computing Surveys](https://dl.acm.org/journal/csur) · [Journal of Open Source Software](https://joss.theoj.org/)
